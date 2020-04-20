@@ -16,3 +16,8 @@ h2 {
     line-height: 38px;
     font-family: Tahoma, Helvetica, sans-serif;
 };
+
+h3 {
+    font-size: 18px;
+    color: #666;
+};
