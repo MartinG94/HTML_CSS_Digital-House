@@ -14,3 +14,7 @@ p.subrayado {
 .otraTipografia{
     font-family: Arial;
 }
+
+ul li {
+    color: orange;
+}
