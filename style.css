@@ -8,4 +8,9 @@ p {
 
 .subrayado {
     text-decoration: underline;
+    color: green;
+}
+
+.otraTipografia{
+    font-family: Arial;
 }
