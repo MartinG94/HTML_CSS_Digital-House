@@ -5,3 +5,7 @@ p {
 #primerParrafo {
     color: blue;
 }
+
+.subrayado {
+    text-decoration: underline;
+}
