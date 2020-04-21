@@ -6,7 +6,7 @@ p {
     color: blue;
 }
 
-.subrayado {
+p.subrayado {
     text-decoration: underline;
     color: green;
 }
