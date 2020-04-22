@@ -34,3 +34,4 @@ input:focus {
 body p:nth-child(5) {
     background-color: magenta;
 }
+/* denro de nth-child pueden ir odd(impares) ó even(Pares)*/
