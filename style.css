@@ -22,3 +22,11 @@ ul li {
 p.formulario {
     color: black;
 }
+
+input:hover {
+    background-color: brown;
+}
+
+input:focus {
+    background-color: darkcyan;
+}
