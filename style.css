@@ -30,3 +30,7 @@ input:hover {
 input:focus {
     background-color: darkcyan;
 }
+
+body p:nth-child(5) {
+    background-color: magenta;
+}
