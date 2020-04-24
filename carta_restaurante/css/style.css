@@ -10,6 +10,10 @@
     list-style-type: none;
 }
 
+.listado-menu {
+    list-style-type: none;
+}
+
 .navegacion-menu a {
     text-decoration: none;
     color: black;
