@@ -6,6 +6,15 @@
     float: left;
 }
 
+.navegacion-menu {
+    list-style-type: none;
+}
+
+.navegacion-menu a {
+    text-decoration: none;
+    color: black;
+}
+
 #navegacion {
     margin: 10px;
 }
