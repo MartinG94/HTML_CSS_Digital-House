@@ -1,39 +1,38 @@
 #encabezado {
     border-bottom: 1px solid rgb(54, 54, 54);
-}
+} /*ID // Reglas para el <header>*/
 
 .float-left {
     float: left;
-}
+} /*Clase // Para declarar flotacion izquierda*/
 
 
 #navegacion {
     width: 20%;
-}
+} /*ID // Reglas para <nav>*/
 
 #contenido {
     width: 80%
-}
+} /*ID // Reglas para <article>*/
 
 .navegacion-menu {
     list-style-type: none;
     padding: 0
-}
+} /*Clase // Reglas para el listado de hipervinculos*/
 
 .navegacion-menu a {
     text-decoration: none;
     color: black
-}
+} /*Clase // Reglas para cada hipervinculo en particular*/
 
-.contenedor-cuerpo {
+#contenedor-cuerpo {
     margin: 50px;
-}
+} /*ID // Reglas para todo el contenedor de la página*/
 
 .listado-menu {
     list-style-type: none;
-
-}
+} /*Clase // Reglas para el listado de los platos del menú*/
 
 .img-derecha {
     float: right
-}
+} /*Clase // Regla para declarar flotación derecha de una imagen*/
