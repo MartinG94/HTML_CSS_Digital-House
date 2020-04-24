@@ -1,39 +1,39 @@
-#contenedor-cuerpo {
-    box-sizing: border-box;
-}
-
 #encabezado {
-    border-bottom: 1px solid gray;
+    border-bottom: 1px solid rgb(54, 54, 54);
 }
 
 .float-left {
     float: left;
 }
 
-.navegacion-menu {
-    list-style-type: none;
-    padding: 0;
+
+#navegacion {
+    width: 20%;
 }
 
-.listado-menu {
+#contenido {
+    width: 80%
+}
+
+.navegacion-menu {
     list-style-type: none;
+    padding: 0
 }
 
 .navegacion-menu a {
     text-decoration: none;
-    color: black;
+    color: black
 }
 
-#navegacion {
-    margin: 10px;
-}
-
-#contenido {
-    margin: 10px;
-    padding: 10px;
-    border-left: 1px solid gray
-}
-
-#contenedor-cuerpo {
+.contenedor-cuerpo {
     margin: 50px;
+}
+
+.listado-menu {
+    list-style-type: none;
+
+}
+
+.img-derecha {
+    float: right
 }
