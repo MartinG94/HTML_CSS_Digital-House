@@ -9,17 +9,20 @@
 
 #contenedor-B {
     width: 300px;
+    padding: 15px;
 } /*ID // Reglas para <nav>*/
 
 #contenedor-C {
     width: 610px;
+    padding: 15px ;
     border-left: solid 1px black;
 } /*ID // Reglas para <article>*/
 
 footer {
     border: solid 1px black;
     padding: 20px;
-    width: 920px;
+    width: 960px;
+    box-sizing: border-box;
     overflow: hidden;
     background-color: #BDBDBD;
 }
@@ -29,10 +32,6 @@ footer {
     width: 250px;
     margin-left: 15px;
     margin-top: 7px;
-}
-
-.contacto {
-    float: right;
 }
 
 .cont {
