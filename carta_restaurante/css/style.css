@@ -9,16 +9,14 @@
 
 #contenedor-B {
     width: 300px;
-    padding: 15px;
 } /*ID // Reglas para <nav>*/
 
 #contenedor-C {
     width: 610px;
-    padding: 15px;
     border-left: solid 1px black;
 } /*ID // Reglas para <article>*/
 
-#contenedor-D {
+footer {
     border: solid 1px black;
     padding: 20px;
     width: 920px;
@@ -68,3 +66,4 @@
 .img-derecha {
     float: right;
 } /*Clase // Regla para declarar flotación derecha de una imagen*/
+
