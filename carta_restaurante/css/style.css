@@ -1,4 +1,5 @@
 #encabezado {
+    padding-bottom: 20px;
     border-bottom: 1px solid rgb(54, 54, 54);
 } /*ID // Reglas para el <header>*/
 
@@ -6,13 +7,20 @@
     float: left;
 } /*Clase // Para declarar flotacion izquierda*/
 
+.float-right {
+    float: right;
+}
 
 #navegacion {
-    width: 20%;
+    width: 300px;
+    padding: 15px;
+    margin: 20px;
 } /*ID // Reglas para <nav>*/
 
 #contenido {
-    width: 80%
+    width: 610px;
+    padding: 15px;
+    border-left: solid 1px black;
 } /*ID // Reglas para <article>*/
 
 .navegacion-menu {
@@ -26,6 +34,7 @@
 } /*Clase // Reglas para cada hipervinculo en particular*/
 
 #contenedor-cuerpo {
+    width: 960px;
     margin: 50px;
 } /*ID // Reglas para todo el contenedor de la página*/
 
@@ -34,5 +43,30 @@
 } /*Clase // Reglas para el listado de los platos del menú*/
 
 .img-derecha {
-    float: right
+    float: right;
 } /*Clase // Regla para declarar flotación derecha de una imagen*/
+
+footer {
+    border: solid 1px black;
+    padding: 20px;
+    width: 920px;
+    overflow: hidden;
+    background-color: #BDBDBD;
+}
+
+.logo {
+    float: left;
+    width: 250px;
+    margin-left: 15px;
+    margin-top: 7px;
+}
+
+.contacto {
+    float: right;
+}
+
+.cont {
+  text-decoration: none;
+  font-size: 16px;
+  color: black;
+}
