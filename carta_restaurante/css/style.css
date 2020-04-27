@@ -15,12 +15,12 @@ body {
 #contenedor-C {
     width: 610px;
     padding: 15px ;
-    border-left: solid 1px black;
+    border-left: solid 1px rgb(54, 54, 54);
     margin-bottom: 15px;
 } /*ID // Reglas para <article>*/
 
 footer {
-    border: solid 1px black;
+    border: solid 1px rgb(54, 54, 54);
     padding: 20px;
     width: 960px;
     box-sizing: border-box;
