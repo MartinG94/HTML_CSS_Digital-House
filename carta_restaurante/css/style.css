@@ -19,7 +19,7 @@ body {
     margin-bottom: 15px;
 } /*ID // Reglas para <article>*/
 
-footer {
+#contenedor-D {
     border: solid 1px rgb(54, 54, 54);
     padding: 20px;
     width: 960px;
