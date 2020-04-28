@@ -1,0 +1,10 @@
+body {
+    font-family: "Raleway";
+    width: 960px;
+}
+
+#contenedor-principal {
+    margin: 50px;
+    padding: 15px;
+    border: solid 1px rgb(225,167,1);
+}
