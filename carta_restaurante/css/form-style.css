@@ -8,3 +8,7 @@ body {
     padding: 15px;
     border: solid 1px rgb(225,167,1);
 }
+
+.float-left {
+    float: left;
+}
