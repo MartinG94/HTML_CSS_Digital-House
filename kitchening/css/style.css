@@ -12,6 +12,18 @@ body {
     background-color: rgba(245, 245, 245, 0);
 }
 
+.main-nav li a {
+    margin-bottom: 2px;
+}
+
+.banner, .main-nav {
+    margin-bottom: 15px;
+}
+
+.card-img-top {
+    margin-top: 15px;
+}
+
 /* .zoom{
     display: flex;
     justify-content: center;
