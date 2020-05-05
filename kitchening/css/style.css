@@ -74,10 +74,6 @@ body {
 
 /* Fin de Overlay */
 
-.main-footer {
-    background-color: rgb(185, 37, 25);
-}
-
 .btn-danger {
     background-color: rgb(185, 37, 25) !important;
 }
