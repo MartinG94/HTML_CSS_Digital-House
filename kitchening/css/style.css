@@ -8,6 +8,7 @@ body {
     border-radius: 70px;
     margin-top: 15px;
     margin-bottom: 15px;
+    border: solid 1px black;
 }
 
 .card {
