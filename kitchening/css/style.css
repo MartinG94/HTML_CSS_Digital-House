@@ -7,7 +7,7 @@ body {
     margin: auto;
     border-radius: 70px;
     margin-top: 15px;
-    margin-bottom: 15px;
+    margin-bottom: 30px;
     border: solid 1px black;
 }
 
@@ -24,11 +24,11 @@ body {
 }
 
 .banner, .main-nav, .main-footer {
-    margin-bottom: 15px;
+    margin-bottom: 20px;
 }
 
 .card-img-top, .main-footer {
-    margin-top: 15px;
+    margin-top: 20px;
 }
 
 /* Overlay de https://www.w3schools.com/howto/howto_css_image_overlay.asp */
