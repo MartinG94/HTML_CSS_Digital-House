@@ -12,6 +12,10 @@ body {
     background-color: rgba(245, 245, 245, 0);
 }
 
+.bg-secondary, .btn-secondary {
+    background-color: rgb(66, 64, 67) !important;
+}
+
 .main-nav li a, .main-footer li a {
     margin-bottom: 2px;
 }
