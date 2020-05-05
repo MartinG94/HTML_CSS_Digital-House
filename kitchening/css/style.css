@@ -7,3 +7,8 @@ body {
     margin: auto;
     border-radius: 70px;
 }
+
+.card {
+    background-color: rgba(245, 245, 245, 0);
+}
+
