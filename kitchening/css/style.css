@@ -6,6 +6,7 @@ body {
     display: block;
     margin: auto;
     border-radius: 70px;
+    margin-bottom: 15px;
 }
 
 .card {
