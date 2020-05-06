@@ -77,3 +77,7 @@ body {
 .btn-danger {
     background-color: rgb(185, 37, 25) !important;
 }
+
+.special {
+    position: absolute;
+}
