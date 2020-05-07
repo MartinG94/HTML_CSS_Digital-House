@@ -27,7 +27,7 @@ body {
     margin-bottom: 20px;
 }
 
-.main-footer {
+.main-footer, #main-footer-desk {
     margin-top: 20px;
 }
 
@@ -82,4 +82,35 @@ body {
     position: absolute;
     top: 0;
     right: 5px;
+}
+
+#main-footer-desk {
+    background-color: rgb(185, 37, 25);
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    text-align: center;
+    margin-bottom: 0px;
+    height: 100px;
+    justify-content: center;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+#main-footer-desk ul {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+}
+
+#main-footer-desk ul li a{
+    color: white;
+    font-size: 25px;
+}
+
+#main-footer-desk ul li + li:before{
+    content: "|";
+    padding: 0 10px;
+    color: white;
+
 }
