@@ -101,6 +101,7 @@ body {
     display: flex;
     justify-content: center;
     list-style-type: none;
+    padding-top: 3.5%;
 }
 
 #main-footer-desk ul li a{
@@ -111,5 +112,4 @@ body {
     content: "|";
     padding: 0 10px;
     color: white;
-
 }
